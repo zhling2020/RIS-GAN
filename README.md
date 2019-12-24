@@ -1,9 +1,9 @@
-# GIS-GAN
+# RIS-GAN
 This repository contains TensorFlow code for the paper titled "RIS-GAN: Explore Residual and Illumination with Generative Adversarial Networks for Shadow Removal" [pdf](https://arxiv.org/abs/1911.09178).
 
 ## Notes: 
 1. The GAN component is dervied from paper "Single Image Haze Removal using a Generative Adversarial Network". 
-2. This GIS-GAN can be used for any application, and is not limited to Shadow removal. 
+2. This RIS-GAN can be used for any application, and is not limited to Shadow removal. 
 
 ## Requirements:
 - TensorFlow (version 1.4+)
