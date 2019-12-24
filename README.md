@@ -13,6 +13,7 @@ This repository contains TensorFlow code for the paper titled "RIS-GAN: Explore 
 
 ## Instructions:
 1. We use the pretrained VGG-19 on the ImageNet dataset to calculate Perceptual loss. 
+    We used the weights provided by [machrisaa](https://github.com/machrisaa/tensorflow-vgg)'s implementation. Download the weights from this [link](https://mega.nz/#!xZ8glS6J!MAnE91ND_WyfZ_8mvkuSa2YcA7q-1ehfSm-Q1fxOvvs) and include it in this repository.
 
 2. Download the dataset.
 - We used the [ISTD](https://drive.google.com/file/d/1I0qw65KBA6np8vIZzO6oeiOvcDBttAY/view?usp=sharing) dataset for training. The shadow images and corresponding shadow-free images will be placed in directories `A` and `B` respectively. 
