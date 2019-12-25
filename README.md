@@ -41,7 +41,7 @@ python main.py --A_dir shadow --B_dir result --mode inference
 
 ##Sample results
 Attached below are some shadow removal results from the test set.
-
+![avatar](https://github.com/zhling2020/RIS-GAN/blob/master/model/test.jpg)
 
 ### Citation
 If you use the code in your own research, please cite:
