@@ -2,8 +2,9 @@
 This repository contains TensorFlow code for the paper titled "RIS-GAN: Explore Residual and Illumination with Generative Adversarial Networks for Shadow Removal" [pdf](https://arxiv.org/abs/1911.09178) (http://www.chengjianglong.com/publications/RISGAN_AAAI.pdf).
 
 ##RIS-GAN Architecture
-Attached below is the architecture diagram of RIS-GAN as given in the paper.
 
+Attached below is the architecture diagram of RIS-GAN as given in the paper.
+![avatar](https://github.com/zhling2020/RIS-GAN/blob/master/model/overview.jpg)
 
 ## Notes: 
 1. The GAN component is dervied from paper "Single Image Haze Removal using a Generative Adversarial Network". 
